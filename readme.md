@@ -5,7 +5,7 @@
 
 1. Download or clone the repository
 2. Open the folder
-3. Double-click `index.html`
+3. Double-click `week_1.html`
 4. Run in any modern browser
 
 ---
@@ -42,7 +42,7 @@ Frontend Developer (Learning Phase)
 
 ## 📸 Preview
 
-> Add a screenshot of your website here for better presentation
+![Future tech web](image.png)
 
 ---
 
