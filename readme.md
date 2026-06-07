@@ -1,5 +1,49 @@
 
+#  FutureTech Hub - Modern Static Website
+
+A stylish and responsive static website built using **HTML5 and CSS3**.  
+This project demonstrates modern UI design, responsive layouts, and frontend fundamentals.
+
 ---
+
+## 🌐 Live Preview
+*(Add GitHub Pages / Netlify link here if deployed)*
+
+---
+
+##  Project Overview
+
+FutureTech Hub is a futuristic technology-themed website designed for learning and practice.  
+It includes multiple sections like hero, about, services, stats, and contact — all styled with modern CSS techniques such as glassmorphism, gradients, and animations.
+
+
+
+## Features
+
+-  Modern dark-themed UI design
+-  Fully responsive layout (mobile, tablet, desktop)
+-  Sticky navigation bar
+-  Hero section with gradient text & CTA button
+-  Glassmorphism-style service cards
+-  Smooth hover animations & transitions
+-  Statistics section with highlights
+-  Contact section with basic info layout
+-  High-quality background images
+
+
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- Google Fonts (Poppins)
+- Flexbox
+- CSS Grid
+- CSS Animations & Transitions
+
+
+## 📁 Project Structure
+
 
 ## 🚀 How to Run
 
@@ -26,13 +70,13 @@ This project helps you understand:
 
 The website is optimized for:
 
-- 📱 Mobile devices
-- 📟 Tablets
-- 💻 Desktop screens
+-  Mobile devices
+-  Tablets
+-  Desktop screens
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Arian Kumar**  
 Computer Science Student  
