@@ -1,15 +1,10 @@
 
 #  FutureTech Hub - Modern Static Website
 
-A stylish and responsive static website built using **HTML5 and CSS3**.  
+A responsive static website built using **HTML5 and CSS3**.  
 This project demonstrates modern UI design, responsive layouts, and frontend fundamentals.
 
----
 
-## 🌐 Live Preview
-*(Add GitHub Pages / Netlify link here if deployed)*
-
----
 
 ##  Project Overview
 
